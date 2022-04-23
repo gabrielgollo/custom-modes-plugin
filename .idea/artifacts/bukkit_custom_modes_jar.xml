@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bukkit-custom-modes:jar">
+    <output-path>$USER_HOME$/Desktop/Gabriel/Development/Java/devPlugin</output-path>
+    <root id="archive" name="bukkit-custom-modes.jar">
+      <element id="module-output" name="bukkit-custom-modes" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

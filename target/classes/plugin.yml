@@ -1,0 +1,10 @@
+name: CustomModes-Plugin
+main: me.gabrielgollo.customModesPlugin.CustomModesPlugin
+version: 0.0.1
+commands:
+  fly:
+    description: This is a demo command.
+    usage: /<command> [player]
+  doGold:
+    description: This will change your xp to create a golde block
+    usage: /<doGold>
